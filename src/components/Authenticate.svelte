@@ -1,6 +1,6 @@
 <div class="authContainer">
     <form>
-        <h1>Sign In</h1>
+        <h1>Login</h1>
         <label>
             <input type="email" placeholder="Email"/>
         </label>
